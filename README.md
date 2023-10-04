@@ -1,25 +1,20 @@
 ### Hi there, I'm [Daniel](https://danieljwilson.com/science/) 👋
 
 I am completing my Ph.D. in the [Decision Neuroscience Lab](https://www.decisionneurolab.com/) at the University of Toronto (finishing January 2024).
-Prior to my Ph.D. I worked as a documentary filmmaker producing and editing films for [PBS Frontline](https://www.pbs.org/wgbh/frontline/) (including the Emmy-nominated S) and multi-disciplinary artist whose work has been shown at MoMA, added to the Criterion Collection, covered by the [New York Times](https://www.nytimes.com/2013/03/18/nyregion/cab-riders-riffs-secretly-recorded-for-the-sake-of-art.html), and supported by NSERC, the Canada Council for the Arts and New INC.
+
+Prior to my Ph.D. I worked as a documentary filmmaker producing and editing films for [PBS Frontline](https://www.pbs.org/wgbh/frontline/) (including the Emmy-nominated [A Death in St. Augustine](https://www.pbs.org/video/frontline-death-st-augustine/)) and multi-disciplinary artist whose work has been shown at MoMA, acquired by the [Criterion Channel](https://www.criterionchannel.com/), covered by the [New York Times](https://www.nytimes.com/2013/03/18/nyregion/cab-riders-riffs-secretly-recorded-for-the-sake-of-art.html), and supported by [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp), the [Canada Council for the Arts](https://canadacouncil.ca/) and [New INC](https://www.newinc.org/).
 
 After growing up in rural Nova Scotia, I have spent time living in Berlin, Los Angeles, Tokyo, Toronto, New York, Montreal, Mexico City, Buenos Aires, Paris, Vancouver, Nice and Medellin.
 
-**My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+**🔬 Reseach Interests**
+- Psychology, decision-making and behavioral science (current research focuses on the Intention-Behavior gap)
+- [Intensive longitudinal data](https://centerstat.org/apa-ild/) collection and analysis
+- [Digital trace data](https://www.youtube.com/watch?v=uuSWQN7uYhk)
+- Predictive modeling
+- [Computational social science](https://en.wikipedia.org/wiki/Computational_social_science) (intersection of AI, data and society)
 
- **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
-
-## Skills:
+## Skills
 
 #### Tools Languages:
 
@@ -52,14 +47,14 @@ After growing up in rural Nova Scotia, I have spent time living in Berlin, Los A
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
 
-## Connect with me:
+## Connect
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://danieljwilson.com/science)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=black%22&color=white">](https://danieljwilson.com/science)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=black&color=white" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black&color=white" />](https://twitter.com/_danieljwilson_) 
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black&color=white" />](https://instagram.com/danieljosephwilson)
 </p>
 
 | <a href="https://github.com/danieljwilson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljwilson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/danieljwilson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&layout=compact&theme=buefy&hide_border=true" /></a> |
