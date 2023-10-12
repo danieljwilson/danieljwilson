@@ -52,7 +52,7 @@ After growing up in rural Nova Scotia, I have spent time living in Berlin, Los A
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=black%22&color=white">](https://danieljwilson.com/science)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=black&color=white" />](https://www.linkedin.com/in/durgeshsamariya/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=black&color=white" />](https://www.linkedin.com/in/danieljwilson/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=black&color=white" />](https://twitter.com/_danieljwilson_) 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black&color=white" />](https://instagram.com/danieljosephwilson)
 </p>
