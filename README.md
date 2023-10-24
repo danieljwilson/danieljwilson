@@ -1,4 +1,4 @@
-### Hi there, I'm [Daniel](https://danieljwilson.com/science/) 👋
+### Hello, I'm [Daniel](https://danieljwilson.com/science/) 👋
 
 I am completing my Ph.D. in the [Decision Neuroscience Lab](https://www.decisionneurolab.com/) at the University of Toronto (finishing January 2024).
 
