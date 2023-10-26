@@ -24,7 +24,7 @@ After growing up in rural Nova Scotia, I have spent time living in Berlin, Los A
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Airtable](https://img.shields.io/badge/airtable-%23000000.svg?style=for-the-badge&logo=airtable&logoColor=white)&nbsp;
+![Airtable](https://img.shields.io/badge/airtable-f82b60.svg?style=for-the-badge&logo=airtable&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 
