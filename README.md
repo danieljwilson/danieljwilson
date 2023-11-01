@@ -67,7 +67,9 @@ After growing up in rural Nova Scotia, I have spent time living in Berlin, Los A
 [<img src="https://github-profile-trophy.vercel.app/?username=danieljwilson&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 [<img src="https://github-readme-stats.vercel.app/api?username=danieljwilson&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/danieljwilson/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danieljwilson&theme=dark)](https://github.com/danieljwilson/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/danieljwilson/github-readme-stats)
+[![Daniel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/danieljwilson/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&hide=roff)
+
  -->
 
 <!--
