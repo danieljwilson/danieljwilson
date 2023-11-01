@@ -59,6 +59,8 @@ After growing up in rural Nova Scotia, I have spent time living in Berlin, Los A
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=black&color=white" />](https://instagram.com/danieljosephwilson)
 </p>
 
+<a href="https://github.com/danieljwilson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&layout=compact&theme=buefy&hide_border=true&hide=roff" /></a>
+
 | <a href="https://github.com/danieljwilson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=danieljwilson&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Daniel's github stats" /></a> | <a href="https://github.com/danieljwilson/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljwilson&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
