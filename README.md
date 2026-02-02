@@ -3,7 +3,7 @@ Researcher and creator working at the intersection of psychology, behavior chang
 My PhD studied the intention–behavior gap and built personalized models from real-world behavioral signals (wearables, phones).
 
 Now I turn that research into practical systems — most notably **Pairent**, an AI-powered parenting aid for evidence-based feedback on daily interactions.  
-I also prototype small, playful tools (e.g., **Bread-y**) and run a training experiment (“**16 to sub-16**”) as a living lab.
+I also prototype small, playful tools (e.g., **Bread-y**) and run a training experiment (“**16sub16**”) as a living lab.
 
 Website: https://www.danieljwilson.com
 
