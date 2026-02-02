@@ -5,7 +5,7 @@ My PhD studied the intention–behavior gap and built personalized models from r
 Now I turn that research into practical systems — most notably **Pairent**, an AI-powered parenting aid for evidence-based feedback on daily interactions.  
 I also prototype small, playful tools (e.g., **Bread-y**) and run a training experiment (“**16sub16**”) as a living lab.
 
-Website: https://www.danieljwilson.com
+[Website](https://www.danieljwilson.com)
 
 ## Skills (selected)
 
